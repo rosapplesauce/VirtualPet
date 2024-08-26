@@ -4,16 +4,11 @@ Rosa Martinez
 Goal: Learn a workflow between a code IDE and GitHub to document and share computer programs. 
 */
 
-import processing.core.PApplet;
 
-public class Sketch extends PApplet {
 
-  public void settings() {
-    size(400, 400);
-  }
 
   public void setup() {
-   
+     size(400, 400);
   }
 
   public void draw() {
@@ -116,4 +111,4 @@ public class Sketch extends PApplet {
 
 
   }
-}
+
